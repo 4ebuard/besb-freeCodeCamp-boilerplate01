@@ -1,6 +1,7 @@
 {
 	"author": "petrsmolianinov",
 	"description": "I am stude using this project. See you space cowboy",
+	"keywords": ["freecodecamp", "kamasutra", "learning"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
